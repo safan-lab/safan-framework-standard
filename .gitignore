@@ -1,5 +1,6 @@
 /vendor/
 /resource/assets/*
+!resource/assets/.htaccess
 /composer.phar
 /composer.lock
 .idea
