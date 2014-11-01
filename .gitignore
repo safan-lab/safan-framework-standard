@@ -1,0 +1,5 @@
+/vendor/
+/resource/assets/*
+/composer.phar
+/composer.lock
+.idea

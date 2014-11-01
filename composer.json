@@ -1,0 +1,10 @@
+{
+    "name": "safan-lab/safan-framework-standart",
+    "license": "MIT",
+    "type": "Safan project",
+    "description": "The \"Safan Framework Standard Edition\" distribution",
+    "require": {
+        "php": ">=5.3.3",
+        "safan-lab/safan": "dev-master"
+    }
+}
