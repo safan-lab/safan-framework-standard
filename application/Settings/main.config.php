@@ -18,4 +18,10 @@ return array(
      * Assets path
      */
     'assets_path' => 'assets',
+    /**
+     * Event list for EventListener
+     */
+    'events' => array(
+        // 'key' => 'Module:EventClass'
+    )
 );
