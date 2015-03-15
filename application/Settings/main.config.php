@@ -23,5 +23,11 @@ return array(
      */
     'events' => array(
         // 'key' => 'Module:EventClass'
+    ),
+    /**
+     * Initialization libraries
+     */
+    'init' => array(
+        
     )
 );
