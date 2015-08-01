@@ -19,6 +19,10 @@ return array(
      */
     'assets_path' => 'assets',
     /**
+     * Memcache status
+     */
+    'memcache' => false,
+    /**
      * Event list for EventListener
      */
     'events' => array(
