@@ -2,6 +2,11 @@
 
 return array(
     /**
+     * Debug = true - error reporting enabled
+     * Debug = false - error reporting disabled
+     */
+    'debug' => true,
+    /**
      * Base Url
      */
     'base_url' => '',
