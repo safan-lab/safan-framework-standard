@@ -1,6 +1,7 @@
 /vendor/
 /resource/assets/*
 !resource/assets/.htaccess
+/application/Settings/local.config.php
 /composer.phar
 /composer.lock
 .idea
