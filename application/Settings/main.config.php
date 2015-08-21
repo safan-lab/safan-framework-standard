@@ -10,10 +10,6 @@ return array(
      */
     'default_language' => 'en_EN',
     /**
-     * Assets path
-     */
-    'assets_path' => 'assets',
-    /**
      * Memcache status
      */
     'memcache' => false,
