@@ -4,7 +4,7 @@
     "type": "project",
     "description": "The \"Safan Framework Standard Edition\" distribution",
     "require": {
-        "php": ">=5.3.3",
-        "safan-lab/safan": "1.0.*"
+        "php": ">=5.4.0",
+        "safan-lab/safan": "1.*"
     }
 }
