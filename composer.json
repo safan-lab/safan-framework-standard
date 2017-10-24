@@ -4,7 +4,16 @@
     "type": "project",
     "description": "The \"Safan Framework Standard Edition\" distribution",
     "require": {
-        "php": ">=5.4.0",
+        "php": ">=7.1",
         "safan-lab/safan": "1.*"
+    },
+    "config": {
+        "optimize-autoloader": true
+    },
+    "autoload": {
+        "psr-4": {
+            "Safan\\": "vendor/safan-lab/safan/Safan/",
+            "SafanResponse\\": "vendor/safan-lab/safan/SafanResponse/"
+        }
     }
 }
